@@ -1,39 +1,29 @@
 {
-    "updates": [
-      {
-        "title": "新",
-        "date": "2023-11-20",
-        "summary": "现在"
-      },
-      {
-        "title": "新功能",
-        "date": "2023-11-19",
-        "summary": "现在您"
-      },
-      {
-        "title": "新功能发布：",
-        "date": "2023-11-18",
-        "summary": "现在您可以"
-      },    
-      {
-        "title": "新功能发布：批量",
-        "date": "2023-11-17",
-        "summary": "现在您可以一次性"
-      },    
-      {
-        "title": "新功能发布：批量创建销售活动",
-        "date": "2023-11-16",
-        "summary": "现在您可以一次性创建多个销售活动，提高工作效率。"
-      },    
-      {
-        "title": "新功能发布：批量创建销售活动",
-        "date": "2023-11-16",
-        "summary": "现在您可以一次性创建多个销售活动，提高工作效率。"
-      },    
-      {
-        "title": "新功能发布：批量创建销售活动",
-        "date": "2023-11-16",
-        "summary": "现在您可以一次性创建多个销售活动，提高工作效率。"
-      }
-   ]
-  }
+  "updates": [
+    {
+      "title": "Initial Release",
+      "date": "2025-04-20",
+      "summary": "Launch of the first version of the plugin."
+    },
+    {
+      "title": "Testing Phase",
+      "date": "2025-04-13",
+      "summary": "Testing the plugin's stability."
+    },
+    {
+      "title": "Development Start",
+      "date": "2025-03-06",
+      "summary": "Commencement of basic feature development."
+    },
+    {
+      "title": "Feature Planning",
+      "date": "2025-02-28",
+      "summary": "Defining the core features of the plugin."
+    },
+    {
+      "title": "Plugin Concept: Time-limited Purchase Plugin Design",
+      "date": "2025-02-16",
+      "summary": "Started designing and conceptualizing the time-limited purchase plugin to provide Shopify merchants with an efficient solution for limited-stock events."
+    }
+  ]
+}
