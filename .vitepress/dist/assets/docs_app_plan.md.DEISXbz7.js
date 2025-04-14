@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.Ba0MnFCs.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/app_plan.md","filePath":"docs/app_plan.md"}'),p={name:"docs/app_plan.md"};function o(n,s,c,r,_,d){return t(),e("div")}const m=a(p,[["render",o]]);export{i as __pageData,m as default};
