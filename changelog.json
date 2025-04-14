@@ -3,12 +3,12 @@
     {
       "title": "Initial Release",
       "date": "2025-04-20",
-      "summary": "Launch of the first version of the plugin."
+      "summary": "Launch of the first version of the app."
     },
     {
       "title": "Testing Phase",
       "date": "2025-04-13",
-      "summary": "Testing the plugin's stability."
+      "summary": "Testing the app's stability."
     },
     {
       "title": "Development Start",
@@ -18,12 +18,12 @@
     {
       "title": "Feature Planning",
       "date": "2025-02-28",
-      "summary": "Defining the core features of the plugin."
+      "summary": "Defining the core features of the app."
     },
     {
-      "title": "Plugin Concept: Time-limited Purchase Plugin Design",
+      "title": "App Concept: Time-limited Purchase App Design",
       "date": "2025-02-16",
-      "summary": "Started designing and conceptualizing the time-limited purchase plugin to provide Shopify merchants with an efficient solution for limited-stock events."
+      "summary": "Designed time-limited purchase App for Shopify."
     }
   ]
 }
