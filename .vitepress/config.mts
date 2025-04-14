@@ -34,7 +34,7 @@ export default defineConfig({
       },
       {
         items: [
-          { link: '/changelog.json' },
+          { link: '/changelog.json' }
         ],
       }
     ],
