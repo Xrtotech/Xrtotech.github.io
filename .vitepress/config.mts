@@ -31,6 +31,11 @@ export default defineConfig({
         items: [
           { text: 'Planned Tasks', link: '/docs/plantasks' },
         ]
+      },
+      {
+        items: [
+          { link: '/changelog.json' },
+        ],
       }
     ],
 
