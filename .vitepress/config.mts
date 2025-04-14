@@ -1,8 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/',
-  outDir: './public',
   title: "Limited Sales App Doc",
   description: "Limited Sales App is specifically designed for Shopify stores to optimize limited-edition product sales events, enhancing both user engagement and purchase conversion rates.",
   themeConfig: {
