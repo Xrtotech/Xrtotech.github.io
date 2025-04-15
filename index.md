@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: What is Limited Sales?
-      link: /docs/introduction
+      link: /docs/en/introduction
     - theme: alt
       text: Quick Start
-      link: /docs/install
+      link: /docs/en/install
 
 features:
   - title: Limited-Time Promotions
