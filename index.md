@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Limited Sales App Doc"
   text: ""
-  tagline: Shopify Limited Sales App optimizes limited-edition sales, boosting engagement and conversions.
+  tagline: Shopify Limited Sales App optimizes limited sales, boosting engagement and conversions.
   actions:
     - theme: brand
       text: What is Limited Sales?
