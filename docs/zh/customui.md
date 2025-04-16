@@ -13,4 +13,5 @@
 
 ### 示例效果：
 
-<img src="../images/image-20250416152813035.png" alt="Component Design Preview" style="zoom:75%;" />
+<img src="../images/image-20250416160228311.png" alt="image-20250416160228311" style="zoom:75%;" />
+
