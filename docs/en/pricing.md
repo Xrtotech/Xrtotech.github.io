@@ -2,14 +2,14 @@
 
 Choose the plan that best fits your business and unlock the full potential of **Limited Sales App**!
 
-| 🔧 Feature                        | 🆓 Free Plan                  | 💼 Pro Plan ($14.99/month)                 |
-| -------------------------------- | ---------------------------- | ----------------------------------------- |
-| ⏱️ Limited Sales Events per Month | 5 events                     | 500 events                                |
-| 🛍️ Supported Products             | Unlimited                    | Unlimited                                 |
-| 🎨 Customization Options          | ✅ Full customization support | ✅ Full customization support              |
-| 🎁 Free Trial                     | ❌                            | ✅ 5-day free trial                        |
-| ☎️ Priority Support               | ❌                            | ✅ Dedicated support                       |
-| 💡 Recommended For                | 🧪 Small shops & test users   | 🔥 Active stores with frequent flash sales |
+| Feature          | Free        | Pro ($14.99/mo) |
+| ---------------- | ----------- | --------------- |
+| Events per month | 5           | 500             |
+| Product limit    | Unlimited   | Unlimited       |
+| Customization    | ✅ Yes       | ✅ Yes           |
+| Free Trial       | ❌           | ✅ 5 days        |
+| Priority Support | ❌           | ✅               |
+| Recommended for  | Small shops | Active sellers  |
 
 ---
 
