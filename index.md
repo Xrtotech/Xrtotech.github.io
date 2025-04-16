@@ -14,7 +14,7 @@ hero:
       text: Quick Start
       link: /docs/en/install
   image:
-    src: docs/images/logo_del.png
+    src: /docs/images/logo_del.png
     alt: Limited Sales App Logo
 features:
   - title: Limited-Time Promotions
