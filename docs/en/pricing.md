@@ -11,7 +11,7 @@ Choose the plan that best fits your business and unlock the full potential of **
 | ☎️ Priority Support      | ❌              | ✅               |
 | 💡 Recommended For       | 🧪 test users   | 🔥 Active stores           |
 
----
+
 
 ## 🚀 Upgrade Now
 
@@ -19,7 +19,7 @@ Unlock higher event limits, full feature access, and priority support by upgradi
 
 👉 [Get Limited Sales App 🚀](https://apps.shopify.com)
 
----
+
 
 ## 🧑‍💻 Contact Us
 
