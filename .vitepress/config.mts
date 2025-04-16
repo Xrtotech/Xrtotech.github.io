@@ -27,21 +27,21 @@ export default defineConfig({
         text: 'Introduction',
         items: [
           { text: 'What is Limited Sales?', link: '/docs/en/introduction' },
-          { text: 'App Plan', link: '/docs/app_plan' },
+          { text: 'Pricing', link: '/docs/en/pricing' },
         ]
       },
       {
         text: 'Quick Start',
         items: [
-          { text: 'Step1 Install', link: '/docs/install' },
-          { text: 'Step2 CustomUI', link: '/docs/customui' },
-          { text: 'Step3 Create Event', link: '/docs/create_event' },
+          { text: 'Step1 Install', link: '/docs/en/install' },
+          { text: 'Step2 CustomUI', link: '/docs/en/customui' },
+          { text: 'Step3 Create Event', link: '/docs/en/create_event' },
         ]
       },
       {
         text: 'Todo',
         items: [
-          { text: 'Planned Tasks', link: '/docs/plantasks' },
+          { text: 'Planned Tasks', link: '/docs/en/plantasks' },
         ]
       }
     ],
