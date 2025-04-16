@@ -13,7 +13,9 @@ hero:
     - theme: alt
       text: Quick Start
       link: /docs/en/install
-
+  image:
+    src: docs/images/logo_del.png
+    alt: Limited Sales App Logo
 features:
   - title: Limited-Time Promotions
     icon: ⚡️
@@ -28,4 +30,3 @@ features:
     icon: 🛡️
     details: Limit each customer to purchasing one of the limited product per order, ensuring fairness and preventing bulk purchases.
 ---
-
