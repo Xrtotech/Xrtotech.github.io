@@ -17,7 +17,7 @@ export default defineConfig({
   title: "Limited Sales App Doc",
   description: "Shopify Limited Sales App optimizes limited sales, boosting engagement and conversions.",
   head: [
-    ['link', { rel: 'icon', href: '/logo/favicon.ico' }]
+    ['link', { rel: 'icon', href: './logo/favicon.ico' }]
   ],
   themeConfig: {
     nav: [
