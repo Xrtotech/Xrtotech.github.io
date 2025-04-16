@@ -1,1 +1,0 @@
-import{_ as t,c as e,o}from"./chunks/framework.Ba0MnFCs.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/customui.md","filePath":"docs/customui.md"}'),s={name:"docs/customui.md"};function c(a,r,n,i,d,m){return o(),e("div")}const _=t(s,[["render",c]]);export{p as __pageData,_ as default};
