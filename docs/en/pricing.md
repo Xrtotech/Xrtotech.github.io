@@ -8,12 +8,12 @@ Choose the plan that best fits your business and unlock the full potential of **
 | 🛍️ Supported Products    | Unlimited      | Unlimited                 |
 | 🎨 Customization Options | ✅ Full support | ✅ Full support            |
 | 🎁 Free Trial            | ❌              | ✅ 5-day free trial        |
-| ☎️ Priority Support      | ❌              | ✅ Dedicated support       |
+| ☎️ Priority Support      | ❌              | ✅               |
 | 💡 Recommended For       | 🧪 test users   | 🔥 Active stores           |
 
 ---
 
-## 🚀 Upgrade to Pro Now
+## 🚀 Upgrade Now
 
 Unlock higher event limits, full feature access, and priority support by upgrading today:
 
