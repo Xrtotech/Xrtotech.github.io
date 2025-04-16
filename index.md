@@ -14,7 +14,7 @@ hero:
       text: Quick Start
       link: /docs/en/install
   image:
-    src: logo.png
+    src: https://raw.githubusercontent.com/Xrtotech/Xrtotech.github.io/refs/heads/main/logo/logo.png
     alt: Limited Sales App Logo
 features:
   - title: Limited-Time Promotions
