@@ -27,4 +27,4 @@ Have questions or feedback? Reach out to our support team anytime:
 
 📮 **support@limited-sales.com**
 
-We'll get back to you within 24 hours!
+⏱️ We will respond as soon as possible.

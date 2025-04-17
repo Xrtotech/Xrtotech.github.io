@@ -13,4 +13,4 @@ Once you're done with your design, click the **"Save"** button below. A message 
 
 ### Preview Example:
 
-<img src="../images/image-20250416160228311.png" alt="image-20250416160228311" style="zoom:75%;" />
+<img src="../images/image-20250416160228311.png" style="zoom:75%;border-radius: 10px;" />

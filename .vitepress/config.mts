@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  appearance: 'force-dark',
   locales: {
     root: {
       label: 'English',
@@ -14,8 +15,8 @@ export default defineConfig({
     //   // 其余 locale 特定属性...
     // }
   },
-  title: "Limited Sales App Doc",
-  description: "Shopify Limited Sales App optimizes limited sales, boosting engagement and conversions.",
+  title: "Limited Sales",
+  description: "Launch flash sale events in minutes",
   head: [
     ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/Xrtotech/Xrtotech.github.io/refs/heads/main/logo/favicon.ico' }]
   ],

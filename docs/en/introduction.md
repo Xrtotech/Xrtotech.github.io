@@ -56,3 +56,10 @@ Limited sales aren’t just for luxury brands. Almost every industry can benefit
    Set a max number of seats and a deadline for each course. Encourage early signups with visible limits.
 - **Live Updates:**
    Display remaining seats and real-time countdowns right on the page to show urgency and drive action.
+
+## 🧑‍💻 Contact Us
+
+Have questions or feedback? Reach out to our support team anytime:
+
+📮 Email: **support@limited-sales.com**  
+⏱️ We will respond as soon as possible.
