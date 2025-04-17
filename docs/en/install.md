@@ -2,7 +2,7 @@
 
 Welcome to **Limited Sales App** — your all-in-one tool to create flash sale events, boost conversion rates, and fight against bots!
 
-## 🚀 Installation Steps
+## Installation Steps
 
 Just a few simple steps to install the app into your Shopify store:
 

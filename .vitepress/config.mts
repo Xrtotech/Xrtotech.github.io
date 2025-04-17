@@ -37,9 +37,9 @@ export default defineConfig({
       {
         text: 'Quick Start',
         items: [
-          { text: 'Step1 Install', link: '/docs/en/install' },
-          { text: 'Step2 CustomUI', link: '/docs/en/customui' },
-          { text: 'Step3 Create Event', link: '/docs/en/create_event' },
+          { text: 'Install', link: '/docs/en/install' },
+          { text: 'CustomUI', link: '/docs/en/customui' },
+          { text: 'Create Event', link: '/docs/en/create_event' },
         ]
       },
       {
