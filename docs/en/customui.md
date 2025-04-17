@@ -33,7 +33,7 @@ Assign a clear and meaningful name to the new template — for example:  `Limite
 
 ### Step 3: Add the Limited Sales UI Block
 
-In the **Product Information** section, click **Add block**, then select:  `Limited Sales`
+In the **Product Information** section, click **Add section**, then select:  `Limited Sales`
 
 <img src="../images/image-20250417132807010.png" style="zoom:75%;border-radius: 10px;" />
 
