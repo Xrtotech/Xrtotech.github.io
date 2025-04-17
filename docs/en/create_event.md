@@ -50,3 +50,9 @@ As the start time approaches, the event will automatically transition into an ac
 
 <img src="../images/image-20250417143307729.png" style="zoom:75%;border-radius: 10px;" />
 
+## 📬 Need Help?
+
+Have questions or feedback? Reach out to our support team anytime:
+
+📮 Email: **support@limited-sales.com**  
+⏱️ We will respond as soon as possible.

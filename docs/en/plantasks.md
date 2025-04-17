@@ -1,0 +1,1 @@
+📧 **Send email notifications**: Notify customers about the campaign to boost engagement and drive conversions.
