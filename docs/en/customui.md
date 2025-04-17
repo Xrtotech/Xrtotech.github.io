@@ -1,4 +1,4 @@
-# 🎨 Customize Your Limited Sales Component
+# Customize Your Limited Sales Component
 
 ## Design a purchase UI that aligns with your brand
 

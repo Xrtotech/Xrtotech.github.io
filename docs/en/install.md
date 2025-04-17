@@ -1,4 +1,4 @@
-# 🛠️ How to Install the Limited Sales App
+# How to Install the Limited Sales App
 
 Welcome to **Limited Sales App** — your all-in-one tool to create flash sale events, boost conversion rates, and fight against bots!
 
