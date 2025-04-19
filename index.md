@@ -3,19 +3,19 @@
 layout: home
 
 hero:
-  name: "Limited Sales"
+  name: "Lightnsale"
   text: ""
   tagline: Launch flash sale events in minutes
   actions:
     - theme: brand
-      text: What is Limited Sales?
+      text: What is Lightnsale?
       link: /docs/en/introduction
     - theme: alt
       text: Quick Start
       link: /docs/en/install
   image:
     src: https://raw.githubusercontent.com/Xrtotech/Xrtotech.github.io/refs/heads/main/logo/logo.png
-    alt: Limited Sales App Logo
+    alt: Lightnsale App Logo
 features:
   - title: Limited-Time Promotions
     icon: ⚡️
