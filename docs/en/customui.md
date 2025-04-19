@@ -41,7 +41,7 @@ In the **Product Information** section, click **Add section**, then select:  `Li
 
 Choose the style you created earlier, and make any final adjustments to match your storefront aesthetics.
 
-<img src="../images/image-20250417133140571.png" style="zoom:75%;border-radius: 10px;" />
+<img src="../images/image-20250417210742085.png" style="zoom:75%;border-radius: 10px;" />
 
 💡 **Pro Tip**: Use your brand’s primary color to highlight key elements.
 

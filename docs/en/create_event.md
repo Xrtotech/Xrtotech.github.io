@@ -15,7 +15,7 @@ To apply your customized **Limited Sales** template to a product, follow these s
 
 After saving, you may click **Preview** to see how the product page appears with the Limited Sales layout applied.
 
-<img src="../images/image-20250417142239154.png" style="zoom:75%;border-radius: 10px;" />
+<img src="../images/image-20250417211029062.png" style="zoom:75%;border-radius: 10px;" />
 
 
 
@@ -32,7 +32,7 @@ After saving, you may click **Preview** to see how the product page appears with
 
 Click **Add Event** to create a new limited-time sales event.
 
-<img src="../images/image-20250417142338749.png" style="zoom:75%;border-radius: 10px;" />
+<img src="../images/image-20250417212653596.png" style="zoom:75%;border-radius: 10px;" />
 
 
 
