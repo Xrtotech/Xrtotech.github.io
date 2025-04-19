@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Lightnsale"
   text: ""
-  tagline: Launch flash sale events in minutes
+  tagline: Launch limit sale events in minutes
   actions:
     - theme: brand
       text: What is Lightnsale?
