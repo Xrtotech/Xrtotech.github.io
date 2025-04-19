@@ -15,8 +15,8 @@ export default defineConfig({
     //   // 其余 locale 特定属性...
     // }
   },
-  title: "Limited Sales",
-  description: "Launch flash sale events in minutes",
+  title: "Lightnsale",
+  description: "Launch limit sale events in minutes",
   head: [
     ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/Xrtotech/Xrtotech.github.io/refs/heads/main/logo/favicon.ico' }]
   ],
@@ -30,7 +30,7 @@ export default defineConfig({
       {
         text: 'Introduction',
         items: [
-          { text: 'What is Limited Sales?', link: '/docs/en/introduction' },
+          { text: 'What is Lightnsale?', link: '/docs/en/introduction' },
           { text: 'Pricing', link: '/docs/en/pricing' },
         ]
       },
