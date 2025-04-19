@@ -1,6 +1,6 @@
-# How to Install the Limited Sales App
+# How to Install the Lightnsale App
 
-Welcome to **Limited Sales App** — your all-in-one tool to create flash sale events, boost conversion rates, and fight against bots!
+Welcome to **Lightnsale App** — your all-in-one tool to create flash sale events, boost conversion rates, and fight against bots!
 
 ## Installation Steps
 
@@ -10,7 +10,7 @@ Just a few simple steps to install the app into your Shopify store:
 
 Click the link below to go to the Shopify authorization page:
 
-👉 [Click here to install Limited Sales App](https://apps.shopify.com/your-app-slug)
+👉 [Click here to install Lightnsale App](https://apps.shopify.com/your-app-slug)
 
 > 🔐 During the installation, Shopify will ask for permission to access necessary store data (such as orders, products, and event settings). Click **“Install”** to proceed.
 >
@@ -20,7 +20,5 @@ Click the link below to go to the Shopify authorization page:
 
 Have questions or feedback? Reach out to our support team anytime:
 
-📮 Email: **support@limited-sales.com**  
+📮 Email: **support@lightnsale.com**  
 ⏱️ We will respond as soon as possible.
-
----

@@ -1,8 +1,8 @@
-# Customize Your Limited Sales Component
+# Customize Your Lightnsale Component
 
 ## Design a purchase UI that aligns with your brand
 
-Tailor the appearance of your Limited Sales component to match the visual identity of your store.
+Tailor the appearance of your Lightnsale component to match the visual identity of your store.
 
 - 🧩 **Configuration Panel (Left)**: Adjust layout, border radius, colors, and other styling options  
 - 👀 **Live Preview (Right)**: Instantly preview any changes you make in real time
@@ -27,13 +27,13 @@ Navigate to the theme customization section:  **Online Store > Themes > Customiz
 
 ### Step 2: Name Your Template
 
-Assign a clear and meaningful name to the new template — for example:  `Limited Sales`.
+Assign a clear and meaningful name to the new template — for example:  `limited-sales`.
 
 <img src="../images/image-20250417132619958.png" style="zoom:75%;border-radius: 10px;" />
 
-### Step 3: Add the Limited Sales UI Block
+### Step 3: Add the Lightnsale UI Block
 
-In the **Product Information** section, click **Add section**, then select:  `Limited Sales`
+In the **Product Information** section, click **Add section**, then select:  `limited-sales`
 
 <img src="../images/image-20250417132807010.png" style="zoom:75%;border-radius: 10px;" />
 
@@ -49,6 +49,5 @@ Choose the style you created earlier, and make any final adjustments to match yo
 
 Have questions or feedback? Reach out to our support team anytime:
 
-📮 Email: **support@limited-sales.com**  
+📮 Email: **support@lightnsale.com**  
 ⏱️ We will respond as soon as possible.
-

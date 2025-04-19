@@ -29,5 +29,5 @@ Once this rule is enabled:
 
 Have questions or feedback? Reach out to our support team anytime:
 
-📮 Email: **support@limited-sales.com**  
+📮 Email: **support@lightnsale.com**  
 ⏱️ We will respond as soon as possible.

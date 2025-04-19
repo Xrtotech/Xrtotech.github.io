@@ -1,8 +1,8 @@
-# What is **Limited Sales App**?
+# What is **Lightnsale App**?
 
-**Limited Sales App** is a Shopify plugin purpose-built for running limited-quantity and limited-time sales. It helps merchants create urgency and scarcity, significantly boosting user engagement and conversion rates.
+**Lightnsale App** is a Shopify plugin purpose-built for running limited-quantity and limited-time sales. It helps merchants create urgency and scarcity, significantly boosting user engagement and conversion rates.
 
-### ✨ Why Use Limited Sales App?
+### ✨ Why Use Lightnsale App?
 
 - **🚀 Drive Conversions Faster**
    Leverage real-time inventory limits, countdown timers, and flash sale settings to trigger urgency and get customers to check out quicker.
@@ -15,14 +15,14 @@
 
 ## 🔍 Use Cases & Industry Applications
 
-Limited sales aren’t just for luxury brands. Almost every industry can benefit from scarcity-based marketing👇:
+Lightnsale aren’t just for luxury brands. Almost every industry can benefit from scarcity-based marketing👇:
 
 
 
 ### 👜 Case 1: Luxury Goods & Designer Drops
 
 📌 **Scenario:**
- High-end products like limited-edition watches, designer clothing, or fine jewelry often use scarcity to enhance brand prestige. The Limited Sales App enables you to offer exclusive items with countdowns, VIP access, and true limited-stock drops.
+ High-end products like limited-edition watches, designer clothing, or fine jewelry often use scarcity to enhance brand prestige. The Lightnsale App enables you to offer exclusive items with countdowns, VIP access, and true limited-stock drops.
 
 **How the App Helps:**
 
@@ -61,5 +61,5 @@ Limited sales aren’t just for luxury brands. Almost every industry can benefit
 
 Have questions or feedback? Reach out to our support team anytime:
 
-📮 Email: **support@limited-sales.com**  
+📮 Email: **support@lightnsale.com**  
 ⏱️ We will respond as soon as possible.

@@ -1,6 +1,6 @@
 # 🧾 Pricing Plan Comparison
 
-Choose the plan that best fits your business and unlock the full potential of **Limited Sales App**!
+Choose the plan that best fits your business and unlock the full potential of **Lightnsale App**!
 
 | 🔧 Feature               | 🆓 Free Plan    | 💼 Pro Plan ($14.99/month) |
 | :---------------------- | :------------- | :------------------------ |
@@ -17,7 +17,7 @@ Choose the plan that best fits your business and unlock the full potential of **
 
 Unlock higher event limits, full feature access, and priority support by upgrading today:
 
-👉 [Get Limited Sales App 🚀](https://apps.shopify.com)
+👉 [Get Lightnsale App 🚀](https://apps.shopify.com)
 
 
 
@@ -25,6 +25,6 @@ Unlock higher event limits, full feature access, and priority support by upgradi
 
 Have questions or feedback? Reach out to our support team anytime:
 
-📮 **support@limited-sales.com**
+📮 **support@lightnsale.com**
 
 ⏱️ We will respond as soon as possible.
