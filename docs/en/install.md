@@ -14,7 +14,7 @@ Click the link below to go to the Shopify authorization page:
 
 > 🔐 During the installation, Shopify will ask for permission to access necessary store data (such as orders, products, and event settings). Click **“Install”** to proceed.
 >
-> <img src="../images/image-20250420092158684.png" style="zoom:75%;border-radius: 10px;" />
+> <img src="../images/image-20250420095837363.png" style="zoom:75%;border-radius: 10px;/>
 
 ## 📬 Need Help?
 
