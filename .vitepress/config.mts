@@ -39,8 +39,8 @@ export default defineConfig({
         items: [
           { text: 'Install', link: '/docs/en/install' },
           { text: 'CustomUI', link: '/docs/en/customui' },
-          { text: 'Create Event', link: '/docs/en/create_event' },
           { text: 'Anti Fraud', link: '/docs/en/anti_fraud' },
+          { text: 'Create Event', link: '/docs/en/create_event' },
         ]
       },
       {
