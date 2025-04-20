@@ -44,6 +44,9 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Privacy Policy', link: '/docs/en/privacy_policy'
+      },
+      {
         text: 'Todo',
         items: [
           { text: 'Planned Tasks', link: '/docs/en/plantasks' },
