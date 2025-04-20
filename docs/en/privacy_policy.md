@@ -34,4 +34,6 @@ We may update this Privacy Policy from time to time. Continued use of the applic
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-[Insert your support email or contact page URL here]
+
+📮 **support@lightnsale.com**
+⏱️ We will respond as soon as possible.
