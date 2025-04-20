@@ -11,8 +11,6 @@
 
 
 
-
-
 ## 🔍 Use Cases & Industry Applications
 
 Lightnsale aren’t just for luxury brands. Almost every industry can benefit from scarcity-based marketing👇:

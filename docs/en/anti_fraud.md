@@ -9,13 +9,13 @@ Please follow the steps below to configure this setting:
 1. Navigate to the admin panel:  
    **Setting > Checkout > Checkout rules > Add rule**
 
-   <img src="../images/image-20250417151032245.png" style="zoom:75%;border-radius: 10px;" />
+   <img src="../images/image-20250420094815750.png" style="zoom:75%;border-radius: 10px;" />
 
 2. In the rule configuration, enable the following option:
 
    - Select rule type: `limited-sales-checkout-validation`
 
-   <img src="../images/image-20250417151202502.png" style="zoom:75%;border-radius: 10px;" />
+   <img src="../images/image-20250420094847007.png" style="zoom:75%;border-radius: 10px;" />
 
 ## 🔒 Feature Overview
 
