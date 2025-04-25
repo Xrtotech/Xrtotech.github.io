@@ -27,6 +27,8 @@ You can upgrade your plan from both the **Home Page** and the **Pricing Page**.
 
 <img src="../images/image-20250425205118010.png" style="zoom:75%;border-radius: 10px;" />
 
+
+
 <img src="../images/image-20250425205211695.png" style="zoom:75%;border-radius: 10px;" />
 
 ### Downgrade
