@@ -21,9 +21,9 @@ Please follow the steps below to configure this setting:
 
 Once this rule is enabled:
 
-- **Each order will be restricted to a maximum of one limited item**
-- If the quantity exceeds the allowed limit, the system will block the order during checkout
-- This helps effectively reduce bot activity and bulk purchases by resellers
+- Each order is permitted to include **only one** limited item.
+- Orders containing more than the permitted quantity (**1**) will be **automatically blocked during checkout**.
+- This mechanism effectively reduces bot activity and bulk purchasing by resellers.
 
 ## 📬 Need Help?
 
