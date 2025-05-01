@@ -10,7 +10,7 @@ Just a few simple steps to install the app into your Shopify store:
 
 Click the link below to go to the Shopify authorization page:
 
-👉 [Click here to install Lightnsale App](https://apps.shopify.com/your-app-slug)
+👉 [Click here to install Lightnsale App](https://apps.shopify.com/lightnsale)
 
 > 🔐 During the installation, Shopify will ask for permission to access necessary store data (such as orders, products, and event settings). Click **“Install”** to proceed.
 >

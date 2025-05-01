@@ -54,7 +54,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'shopify', link: 'https://apps.shopify.com' }
+      { icon: 'shopify', link: 'https://apps.shopify.com/lightnsale' }
     ]
   }
 })

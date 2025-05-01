@@ -15,7 +15,7 @@ Choose the plan that best fits your business and unlock the full potential of **
 
 ## 🚀 Install Now
 
-👉 [Get Lightnsale App 🚀](https://apps.shopify.com)
+👉 [Get Lightnsale App 🚀](https://apps.shopify.com/lightnsale)
 
 
 
