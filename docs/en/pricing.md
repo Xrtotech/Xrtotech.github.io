@@ -1,4 +1,3 @@
-
 ---
 title: Pricing Plan Comparison
 description: Compare Lightnsale App's Free and Pro plans. Find the best Shopify discount app for your store with flexible pricing, unlimited products, and priority support.
