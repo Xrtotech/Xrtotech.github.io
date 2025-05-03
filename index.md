@@ -1,6 +1,18 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Lightnsale
+description: Launch limited-time sales, boost conversions, and customize your Shopify store with Lightnsale. Fast setup, anti-fraud, and one-page checkout for Shopify merchants.
+keywords:
+  - Shopify sale app
+  - Shopify limited-time promotion
+  - Shopify flash sale
+  - Shopify one-page checkout
+  - Shopify sales automation
+  - Shopify anti-fraud
+  - Shopify custom UI
+  - Shopify conversion boost
+  - Shopify quick start
+  - Shopify app for merchants
 
 hero:
   name: "Lightnsale"

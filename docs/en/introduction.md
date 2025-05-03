@@ -1,3 +1,12 @@
+---
+title: What is Lightnsale App?
+description: Introduction to Lightnsale App, a Shopify plugin for limited-quantity and limited-time sales, boosting conversions and customer engagement.
+head:
+  - - meta
+    - name: keywords
+      content: Shopify flash sale app, limited-time offer, urgency marketing, scarcity marketing, Lightnsale, conversion rate optimization, Shopify plugin, limited-quantity sale, ecommerce promotion, customer engagement, flash sale Shopify, sales booster, Shopify marketing tool, increase sales, e-commerce app, Shopify limited edition, FOMO marketing
+---
+
 # What is **Lightnsale App**?
 
 **Lightnsale App** is a Shopify plugin purpose-built for running limited-quantity and limited-time sales. It helps merchants create urgency and scarcity, significantly boosting user engagement and conversion rates.

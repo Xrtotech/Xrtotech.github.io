@@ -1,3 +1,9 @@
+---
+title: Customize Your Lightnsale Component
+description: Learn how to design and integrate a custom Lightnsale purchase UI that matches your Shopify store brand.
+keywords: Lightnsale custom UI, Shopify component, purchase UI, theme integration, brand design, Shopify customization, ecommerce UI, product page design, user experience, Shopify plugin, storefront branding, UI block, conversion optimization
+---
+
 # Customize Your Lightnsale Component
 
 ## Design a purchase UI that aligns with your brand

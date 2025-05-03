@@ -1,3 +1,12 @@
+---
+title: How to Install the Lightnsale App
+description: Step-by-step instructions for installing the Lightnsale App on your Shopify store to launch flash sales and boost conversions.
+head:
+  - - meta
+    - name: keywords
+      content: Lightnsale installation, Shopify app install, flash sale setup, Shopify plugin, conversion boost, install Lightnsale, Shopify sales app, quick setup, e-commerce tools, Shopify marketing, increase sales, app onboarding
+---
+
 # How to Install the Lightnsale App
 
 Welcome to **Lightnsale App** — your all-in-one tool to create flash sale events, boost conversion rates, and fight against bots!

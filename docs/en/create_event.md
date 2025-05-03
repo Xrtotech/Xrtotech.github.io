@@ -1,3 +1,9 @@
+---
+title: Assign the Lightnsale Template to a Product
+description: Step-by-step guide to applying the Lightnsale limited-sales template and creating sales events in Shopify.
+keywords: Shopify sales event, Lightnsale template, limited-sales, product template, Shopify app, flash sale, event setup, sales automation, ecommerce promotion, Shopify plugin, create sales event, product launch, conversion boost
+---
+
 # Assign the Lightnsale Template to a Product
 
 To apply your customized `limited-sales` template to a product, follow these steps:

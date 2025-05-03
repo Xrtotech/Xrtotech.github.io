@@ -1,3 +1,9 @@
+---
+title: Limited Product Purchase Restriction Guide
+description: Learn how to prevent customers from purchasing multiple units of limited products with Lightnsale's anti-fraud feature.
+keywords: Shopify anti-fraud, limited product purchase, checkout rules, Lightnsale, purchase restriction, anti-bot, prevent bulk buying, fraud prevention, Shopify checkout validation, ecommerce security, order limit, Shopify plugin, stop resellers
+---
+
 # Limited Product Purchase Restriction Guide
 
 To prevent customers from purchasing multiple units of a limited product, you can enable the **anti-fraud feature** to enforce a rule that **only one limited item can be purchased per order**.

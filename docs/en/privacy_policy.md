@@ -1,3 +1,18 @@
+---
+title: Privacy Policy
+description: Learn how Lightnsale App protects your privacy. We do not collect customer personal data and ensure secure handling of store information for Shopify merchants.
+keywords:
+  - Shopify privacy policy
+  - Lightnsale privacy
+  - Shopify app data security
+  - Shopify GDPR compliance
+  - Shopify customer data protection
+  - Shopify no data collection
+  - Shopify app privacy statement
+  - Shopify merchant privacy
+  - Shopify third-party data
+  - Shopify app security
+---
 # Privacy Policy
 
 We take your privacy seriously. This application is designed with a data-minimization approach and does **not** collect or store any customer personal information.

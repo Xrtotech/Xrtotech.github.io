@@ -2,6 +2,10 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   appearance: 'force-dark',
+  sitemap: {
+    hostname: 'https://doc.lightnsale.com'
+  },
+  lastUpdated: true,
   locales: {
     root: {
       label: 'English',
@@ -18,14 +22,20 @@ export default defineConfig({
   title: "Lightnsale",
   description: "Launch limit sale events in minutes",
   head: [
-    ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/Xrtotech/Xrtotech.github.io/refs/heads/main/logo/favicon.ico' }]
+    ['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/Xrtotech/Xrtotech.github.io/refs/heads/main/logo/favicon.ico' }],
+    ['meta', { name: 'description', content: 'Lightnsale is a powerful flash sale app for Shopify. Learn how to set up limited-time offers, drive urgency, and boost conversions with our official documentation.' }],
+    ['meta', { name: 'keywords', content: 'Shopify flash sale app, Shopify urgency app, Lightnsale, limited-time offers, flash sale Shopify, Shopify discount timer' }],
+    ['meta', { property: 'og:title', content: 'Lightnsale - Flash Sale App for Shopify' }],
+    ['meta', { property: 'og:description', content: 'Boost your Shopify sales with flash deals. Learn how to configure Lightnsale and run effective flash sale campaigns.' }],
+    ['meta', { property: 'og:url', content: 'https://doc.lightnsale.com' }],
+    ['meta', { property: 'og:image', content: 'https://doc.lightnsale.com/og-image.jpg' }],
+    ['link', { rel: 'canonical', href: 'https://doc.lightnsale.com' }]
   ],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/docs/en/introduction' }
     ],
-
     sidebar: [
       {
         text: 'Introduction',
@@ -55,7 +65,7 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'shopify', link: 'https://apps.shopify.com/lightnsale' }
-    ]
+    ],
   }
 })
 
